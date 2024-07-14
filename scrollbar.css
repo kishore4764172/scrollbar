@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.progress-bar{
+    position:fixed;
+    height:1vh;
+    width:600px;
+}
+h1{
+    font-family:sans-serif;
+    color:red;
+}
+.progress{
+    position:fixed;
+    width:1300px;
+    height:5px;
+    background-image:linear-gradient(to right,rgb(54, 160, 190),rgb(39, 244, 35));
+}
